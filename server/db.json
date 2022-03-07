@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "label": "comprare il latte",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "label": "leggere il libro",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "label": "fare la spesa",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "label": "giocare con il cane",
+      "completed": true
+    }
+  ],
+  "users": []
+}
